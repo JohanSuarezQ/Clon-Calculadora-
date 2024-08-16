@@ -8,7 +8,7 @@ class HomeViewController: UIViewController {
     
     @IBOutlet weak var resultDisplay: UILabel!
     
-    // Números
+    // Números 
     
     @IBOutlet weak var button0: UIButton!
     @IBOutlet weak var button1: UIButton!
